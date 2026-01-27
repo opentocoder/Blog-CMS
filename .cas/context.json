@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "project": {
+    "name": "blog-cms",
+    "description": "待填写",
+    "tech_stack": ["nextjs-ts"],
+    "created_at": "2026-01-28T00:35:13+09:00",
+    "created_by": "cas-init"
+  },
+  "variables": {},
+  "decisions": [],
+  "phase_outputs": {},
+  "skills_used": [],
+  "evolution_suggestions": []
+}

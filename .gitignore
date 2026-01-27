@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.next/
+.env
+.env.local
+*.log
+.cas/sessions.json
+.cas/.skill-read-tracker
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+target/
