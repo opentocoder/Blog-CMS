@@ -31,13 +31,9 @@ dist/
 .env.test.local
 .env.production.local
 
-# CAS / Claude Code
+# CAS / Claude Code (系统文件不上传，但项目文档可以)
 .cas/
 .claude/
-progress.md
-task_plan.md
-findings.md
-CLAUDE.md
 
 # IDE / Editor
 .idea/
