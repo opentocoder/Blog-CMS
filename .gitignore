@@ -34,6 +34,10 @@ dist/
 # CAS / Claude Code
 .cas/
 .claude/
+progress.md
+task_plan.md
+findings.md
+CLAUDE.md
 
 # IDE / Editor
 .idea/
